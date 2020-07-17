@@ -1,0 +1,17 @@
+.btn {
+    background-color: ghostwhite;
+    font-size: 13px;
+}
+
+.bacho {
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+}
+
+.radius {
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+    padding: 3px;
+}
